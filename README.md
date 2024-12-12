@@ -2,5 +2,5 @@
 
 This is my first repository 
 <br>
-Author : Rutuja Shendage
+Author : Rutuja Shendage (student)
 
