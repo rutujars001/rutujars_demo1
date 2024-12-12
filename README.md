@@ -1,3 +1,6 @@
 # rutujars_demo1
 
-This is my first repository but mistaken by me and copied
+This is my first repository 
+<br>
+Author : Rutuja Shendage
+
